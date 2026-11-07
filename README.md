@@ -2,7 +2,7 @@
 
 An animated, single-page portfolio for **Lokeshwaran A.**, a B.E. Electronics and Communication Engineering student (SKCET, Coimbatore, batch 2025-2029) building edge AI, embedded systems and software.
 
-**Live site:** https://lokhi192007.github.io/
+**Live site:** [(https://lokhi192007.github.io/lokeshwaran-portfolio/]
 
 > The link works once you finish the steps below. It uses the repository name `lokhi192007.github.io`, which gives the shortest address. If you pick a different repository name, see [Choosing the repository name](#choosing-the-repository-name).
 
